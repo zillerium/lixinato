@@ -33,6 +33,9 @@ const NavBar = () => {
             <LinkContainer to="/peacio">
               <Nav.Link>Peacio</Nav.Link>
             </LinkContainer>
+            <LinkContainer to="/assetflow">
+              <Nav.Link>Assetflow</Nav.Link>
+            </LinkContainer>
 	     </Nav>
         </Navbar.Collapse>
       </Container>
